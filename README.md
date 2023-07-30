@@ -13,4 +13,4 @@
 
 <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intelliJ&logoColor=white">
 
-<img src="https://img.shields.io/badge/intelliJ-3DDC84?style=for-the-badge&logo=intelliJ&logoColor=white">
+<img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
