@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Josh)
 </div>
 
-#Java
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+//Java
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 //MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 //Oracle
