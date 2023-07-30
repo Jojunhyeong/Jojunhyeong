@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&text=Josh)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Josh)
